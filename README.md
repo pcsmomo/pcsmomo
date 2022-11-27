@@ -1,11 +1,12 @@
 # Hi there 👋
 
-- 🌱 I enjoy learning too much
+- 🌱 I enjoy learning
 - 🎯 Goal in 2022: contributing to open source
 
 [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcsmomo)](https://github.com/anuraghazra/github-readme-stats)
 
-> Practice only makes for improvement
+> Practice only makes for improvement \
+> (Most repos here so far are online courses that I have taken)
 
 <!--
 **pcsmomo/pcsmomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
