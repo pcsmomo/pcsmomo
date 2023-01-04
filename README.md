@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🌱 I enjoy learning
-- 🎯 Goal in 2022: contributing to open source
+<!-- - 🎯 Goal in 2023: contributing to open source -->
 
 [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcsmomo)](https://github.com/anuraghazra/github-readme-stats)
 
